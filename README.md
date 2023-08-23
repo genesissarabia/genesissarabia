@@ -1,10 +1,10 @@
-Hello, World!
+<h1>Hello, World!</h1>
 
-I'm currently learning React and documenting and pushing my learning here. <br/>
-📫 How to reach me: <br/>
-Email: genesissarabia14@gmail.com<br/>
-Website: https://www.genesissarabia.info/<br/>
-LinkedIn: https://www.linkedin.com/in/genesis-sarabia/<br/>
+<h2>I'm currently learning React and documenting and pushing my learning here.</h2> <br/>
+<h3>📫 How to reach me:</h3> <br/>
+<h4>Email:</h4> <a href="mailto:genesissarabia14@gmail.com">genesissarabia14@gmail.com</a><br/>
+<h4>Website:</h4> <a href="https://www.genesissarabia.info/">https://www.genesissarabia.info/</a><br/>
+<h4>LinkedIn:</h4> <a href="https://www.linkedin.com/in/genesis-sarabia/">https://www.linkedin.com/in/genesis-sarabia/<br/>
 
 <h3>Genesis' Github Stats 📊</h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genesissarabia&layout=compact&theme=radical)  ![Genesis' GitHub stats](https://github-readme-stats.vercel.app/api?username=genesissarabia&show_icons=true&theme=radical&hide=stars,issues)
