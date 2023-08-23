@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/genesis-sarabia/<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genesissarabia&layout=compact)
 
-![Genesis' GitHub stats](https://github-readme-stats.vercel.app/api?username=genesissarabia&show_icons=true&theme=gruvbox)
+![Genesis' GitHub stats](https://github-readme-stats.vercel.app/api?username=genesissarabia&show_icons=true&theme=radical)
 <!--
 **genesissarabia/genesissarabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
