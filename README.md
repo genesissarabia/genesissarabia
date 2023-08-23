@@ -6,7 +6,7 @@ Email: genesissarabia14@gmail.com<br/>
 Website: https://www.genesissarabia.info/<br/>
 LinkedIn: https://www.linkedin.com/in/genesis-sarabia/<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genesissarabia&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genesissarabia&layout=compact&theme=radical)
 
 ![Genesis' GitHub stats](https://github-readme-stats.vercel.app/api?username=genesissarabia&show_icons=true&theme=radical)
 <!--
