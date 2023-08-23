@@ -7,6 +7,7 @@
 <h4>LinkedIn:</h4> <a href="https://www.linkedin.com/in/genesis-sarabia/">https://www.linkedin.com/in/genesis-sarabia/<br/>
 
 <h3>Genesis' Github Stats 📊</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genesissarabia&layout=compact&theme=radical)  ![Genesis' GitHub stats](https://github-readme-stats.vercel.app/api?username=genesissarabia&show_icons=true&theme=radical&hide=stars,issues)
 
 
