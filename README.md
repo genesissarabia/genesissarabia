@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello, World!
+
+I'm currently learning React and documenting my pushing my learning here. 
+📫 How to reach me: 
+Email: genesissarabia14@gmail.com
+Website: https://www.genesissarabia.info/
+LinkedIn: https://www.linkedin.com/in/genesis-sarabia/
 
 <!--
 **genesissarabia/genesissarabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
