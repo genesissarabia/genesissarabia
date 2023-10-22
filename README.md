@@ -1,6 +1,6 @@
 <h1>Hello, World!</h1>
 
-<h2>Currently working on React projects and learning typescript.</h2> <br/>
+<h2>Currently working on React projects and learning TypeScript.</h2> <br/>
 <h3>📫 How to reach me:</h3> <br/>
 <h4>Email:</h4> <a href="mailto:genesissarabia14@gmail.com">genesissarabia14@gmail.com</a><br/>
 <h4>Website:</h4> <a href="https://www.genesissarabia.info/">https://www.genesissarabia.info/</a><br/>
