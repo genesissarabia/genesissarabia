@@ -1,4 +1,4 @@
-<h1>Hello World!</h1>
+<h1>Hello, World!</h1>
 
 <h2>Currently working on React projects and learning TypeScript.</h2> <br/>
 <h3>📫 How to reach me:</h3> <br/>
