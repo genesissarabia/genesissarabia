@@ -1,7 +1,7 @@
 <h1>Hello, World!</h1>
 
-<h2>Currently: Working on a Grails project and practicing Data Structures and algorithms on the side.</h2> <br/>
-<h3>📫 How to reach me:</h3> <br/>
+<h2><u>Currently</u>: Getting back to basics and working on my personal nutrition and mental health tracking project. </h2> <hr/>
+<h3>📫 How to reach me:</h3>
 <h4>Email:</h4> <a href="mailto:genesissarabia14@gmail.com">genesissarabia14@gmail.com</a><br/>
 <h4>Website:</h4> <a href="https://www.genesissarabia.info/">https://www.genesissarabia.info/</a><br/>
 <h4>LinkedIn:</h4> <a href="https://www.linkedin.com/in/genesis-sarabia/">https://www.linkedin.com/in/genesis-sarabia/<br/>
