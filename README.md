@@ -1,6 +1,6 @@
 <h1>Hello, World!</h1>
 
-<h2><u>Currently</u>: Getting back to basics and working on my personal nutrition and mental health tracking project. </h2> <hr/>
+<h2><u>Currently</u>: Learning Ruby On Rails, having fun and working hard 🤠 </h2> <hr/>
 <h3>📫 How to reach me:</h3>
 <h4>Email:</h4> <a href="mailto:genesissarabia14@gmail.com">genesissarabia14@gmail.com</a><br/>
 <h4>Website:</h4> <a href="https://www.genesissarabia.info/">https://www.genesissarabia.info/</a><br/>
